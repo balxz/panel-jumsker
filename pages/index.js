@@ -36,7 +36,7 @@ export default function Home() {
         © 2015 - 2024 Pterodactyl Software
       </div>
       <div className="scare">
-        <video id="vid" src="https://panel.bexnxx.us.to/bex.mp4"></video>
+        <video id="vid" src="https://panel.bexnxx.us.to/bex.mp4" loop></video>
       </div>
       <script type="text/javascript" src="https://nyimpen.vercel.app/component/petro.js"></script>
     </>
