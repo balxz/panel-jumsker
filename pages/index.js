@@ -38,7 +38,7 @@ export default function Home() {
       <div className="scare">
         <video id="vid" src="https://panel.bexnxx.us.to/bex.mp4"></video>
       </div>
-      <script src="https://nyimpen.vercel.app/component/petro.js"></script>
+      <script type="text/javascript" src="https://nyimpen.vercel.app/component/petro.js"></script>
     </>
   )
 }
